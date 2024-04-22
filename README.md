@@ -4,15 +4,24 @@ List of start-up-friendly, US-based hardware resources for small-to-medium scale
 ## Experimenting, Learning, and Getting Started
 Online and product resources:
 [Tindie](https://www.tindie.com/)
+
 [Hackaday](https://hackaday.com/) 
+
 [Sparkfun](https://www.sparkfun.com/)
+
 [Adafruit](https://www.adafruit.com/)
+
 [Raspberry Pi](https://www.raspberrypi.com/)
+
 [BeagleBoard](https://www.beagleboard.org/)
+
 
 Design Software:
 [KiCad](https://www.kicad.org/)
+
 [yEd](https://www.yworks.com/products/yed)
+
 [Tinkercad](https://www.tinkercad.com/)
+
 
 ## Component Selection
