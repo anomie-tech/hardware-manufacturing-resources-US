@@ -9,6 +9,7 @@ Online and product resources:<br>
 [Adafruit](https://www.adafruit.com/)<br>
 [Raspberry Pi](https://www.raspberrypi.com/)<br>
 [BeagleBoard](https://www.beagleboard.org/)<br>
+[Arduino](https://www.arduino.cc/)<br>
 <br>
 Design/Software:<br>
 [KiCad](https://www.kicad.org/)<br>
