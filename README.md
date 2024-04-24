@@ -40,6 +40,8 @@ Manually filter by Country of Origin...
 
 [OSHPark](https://oshpark.com/)
 
+[PCB Checklist](https://github.com/azonenberg/pcb-checklist/)
+
 
 
 ## Case Design
