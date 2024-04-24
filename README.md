@@ -2,77 +2,40 @@
 List of start-up-friendly, US-based hardware resources for small-to-medium scale manufacturing.  Please feel free to submit pull requests to add resources! Or email us via "public" (at) anomie.tech
 
 ## Experimenting, Learning, and Getting Started
-Online and product resources:
-
-[Tindie](https://www.tindie.com/)  
-
-[Hackaday](https://hackaday.com/)  
-
-[Sparkfun](https://www.sparkfun.com/)  
-
-[Adafruit](https://www.adafruit.com/)  
-
-[Raspberry Pi](https://www.raspberrypi.com/)  
-
-[BeagleBoard](https://www.beagleboard.org/)  
-
-  
-  
-Design/Software:  
-
-[KiCad](https://www.kicad.org/)  
-
-[yEd](https://www.yworks.com/products/yed)  
-
-[Tinkercad](https://www.tinkercad.com/)  
-
-
-
+Online and product resources:<br>
+[Tindie](https://www.tindie.com/)<br>
+[Hackaday](https://hackaday.com/)<br>
+[Sparkfun](https://www.sparkfun.com/)<br>
+[Adafruit](https://www.adafruit.com/)<br>
+[Raspberry Pi](https://www.raspberrypi.com/)<br>
+[BeagleBoard](https://www.beagleboard.org/)<br>
+<br>
+Design/Software:<br>
+[KiCad](https://www.kicad.org/)<br>
+[yEd](https://www.yworks.com/products/yed)<br>
+[Tinkercad](https://www.tinkercad.com/)<br>
+<br>
 ## Component Selection
-Manually filter by Country of Origin...
-
-[Arrow Electronics](https://www.arrow.com/)
-
-
-
+Manually filter by Country of Origin...<br>
+[Arrow Electronics](https://www.arrow.com/)<br>
+<br>
 ## PCB Design
-
-[RapidPCB](http://www.rapidpcb.com/)
-
-[OSHPark](https://oshpark.com/)
-
-[PCB Checklist](https://github.com/azonenberg/pcb-checklist/)
-
-
-
+[RapidPCB](http://www.rapidpcb.com/)<br>
+[OSHPark](https://oshpark.com/)<br>
+[PCB Checklist](https://github.com/azonenberg/pcb-checklist/)<br>
+<br>
 ## Case Design
-
-[Shapeways](https://www.shapeways.com/)
-
-[Craftcloud](https://craftcloud3d.com/)
-
-[JawsTec](https://www.jawstec.com/)
-
-[OSHCut](https://oshcut.com/)
-
-[McMaster-Carr](https://www.mcmaster.com/)
-
-[Freedom Atlantic](https://freedom-atlantic.com/)
-
-
-
+[Shapeways](https://www.shapeways.com/)<br>
+[Craftcloud](https://craftcloud3d.com/)<br>
+[JawsTec](https://www.jawstec.com/)<br>
+[OSHCut](https://oshcut.com/)<br>
+[McMaster-Carr](https://www.mcmaster.com/)<br>
+[Freedom Atlantic](https://freedom-atlantic.com/)<br>
+<br>
 ## Design-for-Manufacturing and Production
-
-[Threshold Strategic Consulting](https://www.thresholdsc.com/)
-
-[MacroFab](https://www.macrofab.com/)
-
-
-
+[Threshold Strategic Consulting](https://www.thresholdsc.com/)<br>
+[MacroFab](https://www.macrofab.com/)<br>
+<br>
 ## ASICs ?!?!
-
-[Tiny Tapeout](https://tinytapeout.com/)
-
-
-
-
+[Tiny Tapeout](https://tinytapeout.com/)<br>
+<br>
