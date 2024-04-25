@@ -16,6 +16,8 @@ Design/Software:<br>
 [yEd](https://www.yworks.com/products/yed)<br>
 [Tinkercad](https://www.tinkercad.com/)<br>
 <br>
+Learning, Tutorials, Books, etc.<br>
+
 ## Component Selection
 Manually filter by Country of Origin...<br>
 [Arrow Electronics](https://www.arrow.com/)<br>
